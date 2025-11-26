@@ -1,4 +1,3 @@
-<img width="1000" height="1192" alt="image" src="https://github.com/user-attachments/assets/8a417053-1e34-47ff-a009-ec7f557ac68b" />
 
 # 🐧 Linux Process Management
 

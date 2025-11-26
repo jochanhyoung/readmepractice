@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img width="1000" height="1192" alt="image" src="https://github.com/user-attachments/assets/8a417053-1e34-47ff-a009-ec7f557ac68b" />
+
 # 🐧 Linux Process Management
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
